@@ -15,10 +15,10 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=elasticsearch&logoColor=black)
 
 #### Operating System / 操作系统
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=black)
-![IOS](https://img.shields.io/badge/IOS-F2F2F7?style=flat-square&logo=Apple&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-F2F2F7?style=flat-square&logo=Windows&logoColor=black)
-
+- Debian
+- Fedora
+- Windows
+- Android
 
 
 <!-- continuous contribution days-->
