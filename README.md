@@ -17,7 +17,7 @@
 #### Operating System / 操作系统
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=black)
 ![IOS](https://img.shields.io/badge/IOS-F2F2F7?style=flat-square&logo=Apple&logoColor=black)
-![Windows](https://img.shields.io/badge/IOS-F2F2F7?style=flat-square&logo=Apple&logoColor=black)
+![Windows](https://img.shields.io/badge/IOS-F2F2F7?style=flat-square&logo=Windoes&logoColor=black)
 
 
 
