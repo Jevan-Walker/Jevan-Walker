@@ -1,12 +1,12 @@
 ## Welcome to Jevan's Profile 💤
 
 <!-- https://github.com/kyechan99/capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&text=human-written%20code%20only&section=header&reversal=false&fontSize=62&fontAlign=50&fontAlignY=60&animation=twinkling"/>
 
 #### Programming Languages / 常用编程语言
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=Rust&logoColor=black)
+- Java
+- Kotlin
+- Python
+- Zig
 
 #### Data & Storage / 数据及存储
 ![SQLite](https://img.shields.io/badge/SQLite-74C0FC?style=flat-square&logo=sqlite&logoColor=black)
@@ -17,6 +17,8 @@
 #### Operating System / 操作系统
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=black)
 ![IOS](https://img.shields.io/badge/IOS-F2F2F7?style=flat-square&logo=Apple&logoColor=black)
+![Windows](https://img.shields.io/badge/IOS-F2F2F7?style=flat-square&logo=Apple&logoColor=black)
+
 
 
 <!-- continuous contribution days-->
