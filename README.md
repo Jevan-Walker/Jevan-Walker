@@ -5,6 +5,7 @@
 - Java
 - Kotlin
 - Python
+- Golang
 - JavaScript
 - Rust
 ##### Preferred / 倾向于使用的
