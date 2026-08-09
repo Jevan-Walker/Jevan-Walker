@@ -1,25 +1,30 @@
 ## Welcome to Jevan's Profile 💤
 
-<!-- https://github.com/kyechan99/capsule-render -->
-
-#### Programming Languages / 常用编程语言
+#### Programming Languages / 编程语言
+##### Commonly Used / 实际开发常用的
 - Java
 - Kotlin
 - Python
+- JavaScript
+- Rust
+##### Preferred / 倾向于使用的
+- C
 - Zig
+- C3
 
 #### Data & Storage / 数据及存储
-![SQLite](https://img.shields.io/badge/SQLite-74C0FC?style=flat-square&logo=sqlite&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-6DA55F?style=flat-square&logo=mysql&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=elasticsearch&logoColor=black)
+- File System 
+- Sqlite
+- Mysql
+- Redis
+- Elastic Search
+#### AI Tools & Agent / AI工具
+> FUCK THIS
 
 #### Operating System / 操作系统
 - Debian
 - Fedora
-- Windows
 - Android
-
 
 <!-- continuous contribution days-->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -32,5 +37,5 @@
 
 
 ### Contact Me 
-📬 Email：[jevan.dev@outlook.com](mailto:jevan.dev@outlook.com)
+Email：[jevan.dev@outlook.com](mailto:jevan.dev@outlook.com)
   
